@@ -17,5 +17,5 @@ Calorie Counter is a modern web application built with HTML, CSS, and JavaScript
     Values fall within reasonable ranges (example: weight > 0, height > 0)
    
 ## ▶️ How to Run
-- Open `index.html` in your browser.
+Open `index.html` in your browser.
 
